@@ -1,6 +1,6 @@
 import { Many, relations } from "drizzle-orm";
-import { integer } from "drizzle-orm/gel-core";
 import {
+  integer,
   pgEnum,
   pgTable,
   text,
